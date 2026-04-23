@@ -1,0 +1,238 @@
+This document exists so I can understand my own workflow and iteratively improve it. It describes how I personally approach new projects, especially when new technology is involved. These guidelines have evolved over time. I recommend the concept, but not the implementation. Others should develop their own custom approach.
+
+This document is not intended to replace a full design and development lifecycle. It is intended to fit inside almost any externally imposed development process.
+
+Uncontextualized “we” means myself and AI.
+Contractions are minimized for clarity.
+Expect four phases.
+
+Phase 1 — Envision the New Project
+Purpose of the Phase
+To establish orientation. Orientation clears mental space and allows me to understand the purpose before I understand the implementation.
+
+Mindset
+Begin with intent, not mechanics.
+
+Avoid premature influence from other people’s architectures.
+
+Maintain openness to possibilities without committing too early.
+
+Competitive awareness is useful, but only at a high level.
+
+Actions
+Identify the development and production environment.
+
+Sketch the architecture and broad‑stroke features.
+
+Consider scale, persistence, and operational expectations.
+
+Estimate cost, reward, and time constraints.
+
+Evaluate collaboration possibilities.
+
+Perform early competitive awareness:
+
+Look at existing solutions long enough to determine whether they solve the same class of problem.
+
+Avoid deep inspection to prevent inheriting design errors, mental blocks, or accidental plagiarism.
+
+If an existing solution is clearly superior and appropriate, consider using it.
+
+Expected Outputs
+A clear statement of purpose.
+
+A rough architectural outline.
+
+A sense of feasibility and scope.
+
+A list of unknowns that Phase 2 will resolve.
+
+A preliminary decision about whether to build, buy, or adapt.
+
+Risks / Notes
+Looking too deeply at existing solutions may contaminate original thinking.
+
+Underestimating the environment or scale can cause Phase 2 to expand significantly.
+
+This phase ends when I have enough clarity to begin assembling the development stack.
+
+Phase 2 — Piece the Development Stack Together and Embed in the Environment
+Purpose of the Phase
+To get the development environment humming. To build the mental muscle memory that allows intuitive action and high downstream productivity. To discover what I do not know. To reveal flaws in the initial vision.
+
+Mindset
+Expect chaos.
+
+Expect mistakes.
+
+Expect to break things.
+
+Treat all of this as learning, not failure.
+
+Keep the environment as close to “vanilla” as possible because everything is a sand mandala anyway.
+
+Actions
+Assemble the development stack: OS, tools, editors, frameworks, runtimes, dependencies.
+
+Watch tutorials and documentation to accelerate familiarity.
+
+Ask blindingly obvious questions because unexpected answers reveal early issues.
+
+Make mistakes and learn to fix or avoid them.
+
+Break the environment if necessary.
+
+Rebuild it cleanly when required.
+
+Document customizations and deviations from vanilla.
+
+Begin Phase 3 when the environment feels natural and frictionless.
+
+Expected Outputs
+A functioning development environment.
+
+A working understanding of the toolchain.
+
+Enough muscle memory to move without conscious thought.
+
+A refined understanding of the project vision based on real constraints.
+
+A list of environment‑related risks and limitations.
+
+Risks / Notes
+This phase can take minutes or a month depending on the ecosystem.
+
+Environment drift is real. Skills drift is real. Switching ecosystems expands this phase.
+
+Phase 2 is initially “ready” when Phase 3 can begin, but it may be revised throughout development.
+
+Phase 2 should be finalized before Phase 4.
+
+Example (Contextual)
+For the last six years I was immersed in a Linux environment with minimal Windows exposure. Windows evolved without me. I need to understand what the new Windows environment is capable of. The hockey‑universe‑app is simple, but the transition from my last used environment is large.
+
+Phase 3 — Provide a Minimal Solution and Mature It Iteratively
+Purpose of the Phase
+To produce the smallest coherent version of the solution that proves the concept, validates the architecture, and exposes hidden constraints. This phase transforms orientation and environment familiarity into a working artifact. It is intentionally minimal, intentionally incomplete, and intentionally fast.
+
+Mindset
+Build the smallest thing that demonstrates the core value.
+
+Avoid polishing, gold‑plating, and premature optimization.
+
+Expect the first version to be wrong in meaningful ways.
+
+Treat each iteration as a learning loop, not a march toward perfection.
+
+Maintain flexibility. The design is still fluid.
+
+Actions
+Identify the minimal functional slice that proves the project’s purpose
+(Microsoft equivalent: “Minimal Lovable Product” or “Walking Skeleton”).
+
+Implement only the essential features required to validate the architecture.
+
+Validate assumptions discovered in Phases 1 and 2.
+
+Document surprises, constraints, and architectural adjustments.
+
+Iterate in short cycles:
+
+Build a slice
+
+Test it
+
+Evaluate it
+
+Adjust the design
+
+Expand functionality gradually, guided by real feedback and real constraints.
+
+Maintain a running list of technical debt, but do not resolve it prematurely.
+
+Keep the environment stable while evolving the solution.
+
+Expected Outputs
+A minimal working version of the solution.
+
+A validated or revised architecture.
+
+A clear understanding of what the solution actually requires.
+
+A prioritized backlog of improvements, risks, and next steps.
+
+Enough maturity to justify moving toward deployment planning.
+
+Risks / Notes
+Overbuilding too early can lock in poor assumptions.
+
+Underbuilding can hide architectural flaws until too late.
+
+Iteration must be deliberate, not chaotic.
+
+This phase ends when the solution is stable enough to deploy, even if incomplete
+(Microsoft equivalent: “Release Candidate mindset”).
+
+Phase 4 — Deploy
+Purpose of the Phase
+To deliver the solution into its intended environment with confidence, stability, and clarity. Deployment is not an afterthought; it is the moment the project becomes real. This phase ensures the solution behaves correctly outside the development environment.
+
+Mindset
+Deployment is a discipline, not a button.
+
+The goal is predictable, repeatable, low‑drama delivery.
+
+Assume nothing. Verify everything.
+
+Deployment is the first moment the solution is judged by others, so stability matters more than feature count.
+
+Actions
+Prepare the deployment environment (production, staging, or equivalent).
+
+Validate configuration, dependencies, and environment parity.
+
+Perform final checks:
+
+Logging
+
+Error handling
+
+Persistence behavior
+
+Security posture (appropriate to scale)
+
+Package the solution in a clean, deterministic manner.
+
+Execute the deployment using a repeatable process.
+
+Verify the deployment:
+
+Smoke tests
+
+Basic functional checks
+
+Environment‑specific behaviors
+
+Document the deployment steps so future deployments are faster and safer.
+
+Capture lessons learned for the next iteration or next project.
+
+Expected Outputs
+A deployed, functioning solution.
+
+A documented deployment process.
+
+A stable baseline for future improvements.
+
+A clear understanding of how the solution behaves in the real world.
+
+Closure for the project cycle, and a foundation for maintenance or expansion.
+
+Risks / Notes
+Environment drift between development and production can cause unexpected failures.
+
+Deployment shortcuts create long‑term instability.
+
+A successful deployment does not mean the project is “done”; it means the project is real.
+
+This phase ends when the solution is running reliably in its intended environment and the deployment process is repeatable.

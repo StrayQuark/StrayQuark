@@ -29,7 +29,8 @@ I work at the intersection of *old systems that refuse to die* and *modern tooli
 - Using AI tools to accelerate refactoring and analysis  
 
 ## 📂 Repos Coming Soon
-- `universe-modernization-patterns`  
+- `hockey-universe-app`
+- `hockey-hub' (testing, junkdrawer)
 - `dotnet-legacy-integration-examples`  
 - `sql-reporting-templates`  
 - `pick-to-dotnet-migration-notes`  
@@ -45,9 +46,12 @@ I work at the intersection of *old systems that refuse to die* and *modern tooli
 - Early career in PICK/UniVerse and Windows client/server systems  
 - Started on Honeywell systems, survived Lotus 123, and lived to tell the tale  
 
+## 📘 Documentation
+-  [My Development Process] (docs/my-process.txt)
+
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/adrian-woodworth-904261404  
-- Email: *your preferred email here*  
+- Email: *adrian.woodworth@live.com*  
 
 ---
 
