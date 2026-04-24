@@ -1,0 +1,59 @@
+STRAYQUARK COSMOLOGICAL MODEL – v3.2 (COMPACT)
+
+1. ONTOLOGY
+- Universe is finite with a global 3-manifold shape.
+- Spacetime is classical geometry (Einstein curvature).
+- No physical infinities; singularities are math artifacts.
+
+2. GRAVITY
+- Gravity is NOT a quantum force or quantum field.
+- No gravitons, no quantum gravity, no renormalization.
+- Quantum fields exist on a classical curved background.
+
+3. FORCES
+- Only three quantum gauge forces: EM, Weak, Strong.
+- Electroweak unification accepted.
+- No GUT; no unification of Strong with Electroweak.
+- Gravity is separate: geometry, not a gauge interaction.
+
+4. COSMOLOGY (EXPANSION)
+- Use standard ΛCDM for expansion history.
+- Λ with equation of state w = -1.
+- Effective composition: ~70% Λ, ~25% DM, ~5% baryonic.
+- Λ treated as phenomenological; deeper origin unspecified.
+
+5. SPACETIME + ENTANGLEMENT
+- Spacetime connectivity linked to quantum entanglement structure.
+- Time = growth of entanglement complexity.
+- Geometry behaves classically; entanglement picture is interpretive, not a quantum gravity theory.
+
+6. BLACK HOLES
+- Classical interior (GR).
+- Event horizon is holographic (Susskind / ’t Hooft / Maldacena).
+- Information encoded on the horizon; entropy ∝ area.
+- ER=EPR allowed as interpretation; does not remove interior.
+
+7. GLOBAL HOLOGRAPHY
+- Black hole horizons are holographic.
+- Universe as a whole not required to be holographic.
+- Cosmological holography left open, not assumed.
+
+8. STRUCTURE + GEOMETRY
+- Large-scale structure reflects curvature + matter distribution.
+- Einstein equations govern geometry.
+- Entanglement view compatible but secondary to classical GR.
+
+9. DESIGN PRINCIPLES
+- No quantum gravity.
+- No gravitons.
+- No GUT.
+- No physical infinities.
+- No forced “one force” unification.
+- No required global holography.
+
+10. STATUS SUMMARY
+- Gravity: classical curvature.
+- Forces: EM, Weak, Strong only.
+- Expansion: ΛCDM.
+- Black holes: classical interior + holographic horizon.
+- Spacetime: classical GR with optional entanglement interpretation.

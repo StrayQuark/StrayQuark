@@ -1,10 +1,7 @@
-my-process.txt (v1.2)
-📘 Documentation
+STRAYQUARK DEVELOPMENT MODEL v2.0
 
 This document exists so I can understand my own workflow and iteratively improve it. It describes how I personally approach new projects, especially when new technology is involved. These guidelines have evolved over time. I recommend the concept, but not the implementation. Others should develop their own custom approach.
-
 This process is now explicitly married with AI‑assisted development and a modernized Code Complete construction methodology. AI participates in orientation, risk identification, research, clarification, code review, and iterative refinement. AI is not a replacement for engineering judgment; it is a force multiplier for clarity, speed, and exploration.
-
 My process is not intended to replace any development methodologies or documentation requirements that a client may require.
 
 📐 Phase 1 — Envision the New Project
