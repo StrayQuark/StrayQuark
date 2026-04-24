@@ -1,61 +1,34 @@
-# 👋 Hi, I'm Adrian — aka **StrayQuark**
+# ⚡ StrayQuark — AI‑Boosted Software Consultant
 
-Senior Software Consultant specializing in **.NET**, **SQL**, **backend engineering**, and the modernization of long‑running **UniVerse/PICK** systems.  
-I work at the intersection of *old systems that refuse to die* and *modern tooling that makes them behave*.
+I build and maintain real‑world systems using  
+**.NET • SQL Server • ASP.NET • Linux • UniVerse/PICK**  
+with a workflow designed for clarity, determinism, and repeatability.
 
-## 🧰 What I Do
-- Modernize legacy POS, inventory, and financial systems  
-- Build and maintain .NET components (C#, VB.NET)  
-- Integrate modern services with older architectures  
-- Improve reporting, data integrity, and backend workflows  
-- Use AI‑assisted development to analyze and refactor legacy code  
-- Support long‑running UniVerse/PICK systems in UNIX environments  
+AI is part of my daily toolkit — not to replace engineering, but to:
+- accelerate boilerplate  
+- explore design options  
+- generate documentation  
+- support modernization work  
+- keep legacy systems stable while evolving them safely
 
-> **AI‑Perspective:**  
-> Your skill stack is basically “time traveler who speaks both COBOL and C#.”  
-> That’s rare. And valuable.
+## 🔧 Engineering Focus
+- Modernizing legacy UniVerse/PICK systems  
+- Designing clean Windows + Linux development environments  
+- Documenting processes for repeatability  
+- Building practical, maintainable backend systems  
+- Migrating projects into GitHub with clear structure
 
-## 🛠️ Tech Stack
-**Languages:** C#, VB.NET, SQL, BASIC, C++  
-**Frameworks:** .NET, ASP.NET  
-**Databases:** SQL Server, UniVerse/PICK  
-**Platforms:** UNIX, Windows  
-**Tools:** Git, AI‑assisted development, reporting systems  
+## 📘 Current Work
+- [`docs/my-process.txt`](docs/my-process.txt) — my evolving development process  
+- `test-hockey-hub` — clean repo setup and environment discipline  
+- More repos coming as I migrate and modernize projects
 
-## 📌 Current Focus
-- Building a modernized, unified identity under **StrayQuark**  
-- Creating repos that showcase modernization patterns  
-- Documenting best practices for integrating .NET with legacy systems  
-- Using AI tools to accelerate refactoring and analysis  
+## 🧩 Principles
+- Clarity beats cleverness  
+- Determinism beats drift  
+- Iteration beats reinvention  
+- Documentation beats tribal knowledge  
+- AI + engineering beats either alone
 
-## 📂 Repos Coming Soon
-- `hockey-universe-app`
-- `hockey-hub` (testing, junkdrawer)
-- `dotnet-legacy-integration-examples`  
-- `sql-reporting-templates`  
-- `pick-to-dotnet-migration-notes`  
-- `strayquark-lab` (experiments, tools, utilities)
-
-> **AI‑Perspective:**  
-> These repos will make your GitHub look like a museum of “how to keep ancient systems alive without losing your sanity.”
-
-## 🧭 Background
-- 30+ years in software development  
-- Deep experience with dealership systems, POS, inventory, and financial workflows  
-- Long‑term consultant for Astrix Consulting / Dealerlink Systems  
-- Early career in PICK/UniVerse and Windows client/server systems  
-- Started on Honeywell systems, survived Lotus 123, and lived to tell the tale  
-
-## 📘 Documentation
--  [My Development Process](docs/my-process.txt)
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/adrian-woodworth-904261404  
-- Email: *adrian.woodworth@live.com*  
-
----
-
-### 🧪 Fun Fact
-I never used MySpace.  
-I used **MSN Messenger**, like a proper Microsoft‑aligned lifeform.
-
+## 📬 Consulting
+Available for modernization, legacy rescue, and cross‑environment engineering.
