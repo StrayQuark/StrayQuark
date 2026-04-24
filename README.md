@@ -20,7 +20,7 @@ AI is part of my daily toolkit — not to replace engineering, but to:
 
 ## 📘 Current Work
 - [`docs/my-process.txt`](docs/my-process.txt) — my evolving development process  
-- [`docs/my-cosmological-model.txt`](docs/my-cosmological-model.txt) — building a new cosmological model with ai.  
+- [`docs/my-cosmological-model.txt`](docs/my-universe.txt) — building a new cosmological model with ai.  
 - More repos coming as I migrate and modernize projects
 
 ## 🧩 Principles
