@@ -1,0 +1,60 @@
+STANDARD COSMOLOGICAL MODEL – ΛCDM (TEXTBOOK BASELINE, COMPACT)
+
+1. ONTOLOGY
+- Universe is well-described by a homogeneous, isotropic 3D space on large scales.
+- Spacetime is a 4D manifold governed by General Relativity.
+- Singularities appear in the math but are treated as limits of the theory.
+
+2. GRAVITY
+- Gravity = curvature of spacetime (Einstein).
+- Described by Einstein Field Equations.
+- No confirmed quantum theory of gravity; GR used at all observable scales.
+
+3. FORCES
+- Four known interactions: EM, Weak, Strong, Gravity.
+- Electroweak unification accepted.
+- Strong force remains separate; GUTs are theoretical and unconfirmed.
+
+4. COSMOLOGY (EXPANSION)
+- Expansion governed by Friedmann equations under GR.
+- ΛCDM is the standard model of cosmology.
+- Λ (cosmological constant) has equation of state w = -1.
+- Composition today:
+  - ~70% dark energy (Λ)
+  - ~25% cold dark matter
+  - ~5% baryonic matter
+- Expansion is accelerating due to Λ.
+
+5. SPACETIME + QUANTUM FIELDS
+- Quantum fields propagate on a classical curved spacetime background.
+- No requirement that spacetime be emergent.
+- Entanglement plays no structural role in standard GR.
+
+6. BLACK HOLES
+- Black holes have a classical interior region.
+- Event horizon is a causal boundary, not a physical surface.
+- Information paradox unresolved; holography is a theoretical tool, not required.
+- Entropy ∝ horizon area (Bekenstein–Hawking).
+
+7. GLOBAL HOLOGRAPHY
+- Holographic principle is a theoretical framework (AdS/CFT).
+- Not assumed to apply to our universe.
+- No requirement that the cosmos has a holographic boundary.
+
+8. STRUCTURE + GEOMETRY
+- Large-scale structure arises from initial density fluctuations + gravity.
+- Cold dark matter drives structure formation.
+- Geometry determined by matter-energy content via Einstein equations.
+
+9. DESIGN PRINCIPLES
+- GR is the correct theory of gravity at all tested scales.
+- ΛCDM is the correct large-scale cosmological model.
+- Dark matter and dark energy are treated as real components.
+- No commitment to quantum gravity, GUT, or holography.
+
+10. STATUS SUMMARY
+- Gravity: classical GR.
+- Forces: EM, Weak, Strong, Gravity.
+- Expansion: ΛCDM with accelerating scale factor.
+- Black holes: classical interior + horizon; holography optional.
+- Spacetime: classical manifold; quantum fields live on it.
